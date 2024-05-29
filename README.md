@@ -4,7 +4,7 @@ Me encanta darle importancia hasta a los detalles más pequeños, soy una person
 
 Habilidades: JavaScript / React/ HTML / CSS/ Bootstrap/Node.js
 
-- 🌱 Estoy aprendiendo React Native, React Express 
+- 🌱 Estoy aprendiendo React Native, sobre diseño UX|UI
 - 💬 Pregúntame acerca de React, JavaScript, CSS, HTML5. 
 - 📫 Cómo contactarme: iraicyahh@gmail.com 
 
